@@ -30,3 +30,19 @@ D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\E-OkulProje\Proje-3
 D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\E-OkulProje\Proje-3\obj\Debug\Proje-3.csproj.CoreCompileInputs.cache
 D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\E-OkulProje\Proje-3\obj\Debug\Proje-3.exe
 D:\Eğitimlerim\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\E-OkulProje\Proje-3\obj\Debug\Proje-3.pdb
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\bin\Debug\Proje-3.exe.config
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\bin\Debug\Proje-3.exe
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\bin\Debug\Proje-3.pdb
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje-3.csprojAssemblyReference.cache
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.Form1.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.FrmDersler.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.FrmKulup.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.FrmOgrenci.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.FrmOgrenciNotlar.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.FrmOgretmen.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.FrmSınavNotlar.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje_3.Properties.Resources.resources
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje-3.csproj.GenerateResource.cache
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje-3.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje-3.exe
+C:\Users\YASİN\Documents\GitHub\EOkul-Proje\Proje-3\obj\Debug\Proje-3.pdb
